@@ -1,23 +1,16 @@
-# Dashboard Extension Development 
-Tableau Dashboard Extensions open up new ways of interacting with your dashboards. From write-back and custom UI to deep integrations with external systems, extensions can take your dashboards to a whole new level. Plus, starting to build your own extensions doesn’t have to be hard! To get started building your own we suggest using the tools below.
+# Webhook Resources
+With Webhooks you can react to events on Server and take action! To get started with Webhooks we recommend the following tools and resources.
 
-#### Tableau Online sandbox site or Tableau Desktop 2018.2+
-[Tableau Online sandbox site](https://www.tableau.com/developer/get-site)\
-[Tableau Desktop](https://www.tableau.com/products/trial)
+#### Webhooks documentation
+[GitHub](https://github.com/tableau/webhooks-docs)
 
-#### An IDE (Integrated Development Environment) or text editor
-[Visual Studio Code](https://code.visualstudio.com/download)
+#### ADE (API Development Environment)
+[Postman](https://www.getpostman.com/downloads/)
 
-#### A web server
-[Node.js](https://nodejs.org/en/download/)\
-[http-server](https://www.npmjs.com/package/http-server)
+#### Third-party workflow services
+[IFTTT](https://ifttt.com/)\
+[Azuqua](https://azuqua.com/app-library/tableau)
 
-#### Debugging: Chrome (sandbox & 2019.1) or Chromium (2018.2 & 2018.3)
-[Chrome](https://www.google.com/chrome/)\
-[Chromium](https://tableau.github.io/extensions-api/docs/trex_debugging.html)
-
-#### Latest Extensions API library
-[Extensions API library](https://github.com/tableau/extensions-api/tree/master/lib)
-
-#### Sample manifest file
-[Sample manifest file](https://tableau.github.io/datadev-hackathon/Extensions/MyAwesomeExtension.trex)
+#### Webhooks Starter Projects
+[Tableau to IFTTT](https://glitch.com/~tableau-webhooks-iftt)\
+[Tableau to Azuqua](https://glitch.com/~tableau-azuqua)
