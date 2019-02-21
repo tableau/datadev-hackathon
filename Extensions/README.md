@@ -4,6 +4,9 @@ Tableau Dashboard Extensions open up new ways of interacting with your dashboard
 #### Extensions documentation
 [GitHub](https://tableau.github.io/extensions-api/docs/trex_getstarted.html)
 
+### Basic extensions
+[Mini Projects](https://github.com/tableau/datadev-hackathon/wiki)
+
 #### Tableau Online sandbox site or Tableau Desktop 2018.2+
 [Tableau Online sandbox site](https://www.tableau.com/developer/get-site)\
 [Tableau Desktop](https://www.tableau.com/products/trial)
