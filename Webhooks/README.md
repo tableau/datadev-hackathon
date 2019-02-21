@@ -11,6 +11,6 @@ With Webhooks you can react to events on Server and take action! To get started 
 [IFTTT](https://ifttt.com/)\
 [Azuqua](https://azuqua.com/app-library/tableau)
 
-#### Webhooks Starter Projects
+#### Webhooks starter projects
 [Tableau to IFTTT](https://glitch.com/~tableau-webhooks-iftt)\
 [Tableau to Azuqua](https://glitch.com/~tableau-azuqua)
